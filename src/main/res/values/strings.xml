@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android Animation Assignment</string>
+    <string name="button1">Start Animation</string>
+    <string name="textview1">This is a fade in animation</string>
+</resources>
